@@ -38,7 +38,7 @@ Students Math Grades Analysis.
 31 G2 - second period grade (numeric: from 0 to 20)
 32 G3 - final grade (numeric: from 0 to 20, output target)
 
-##References
+## References
 
 Paulo Cortez, University of Minho, GuimarÃ£es, Portugal, http://www3.dsi.uminho.pt/pcortez
 UCI Machine Learning Repository, Students Performance Data Set, https://archive.ics.uci.edu/ml/datasets/Student+Performance
